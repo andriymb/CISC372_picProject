@@ -1,0 +1,9 @@
+Script started on Sun Apr 12 23:47:36 2026
+]0;andriymb@r1n09.darwin:~/CISC372_picProject[?1034h[andriymb@r1n09 CISC372_picProject]$ srun ./image_pt pic1.jpg edge
+Took 6 seconds
+]0;andriymb@r1n09.darwin:~/CISC372_picProject[andriymb@r1n09 CISC372_picProject]$ srun ./image_omp pic1.jpg edge
+Took 8 seconds
+]0;andriymb@r1n09.darwin:~/CISC372_picProject[andriymb@r1n09 CISC372_picProject]$ exit
+exit
+
+Script done on Sun Apr 12 23:48:57 2026
